@@ -36,7 +36,7 @@
     padding: 0;
     box-sizing: border-box;
     resize: vertical;
-    max-width: 1115px;
+    max-width: 1062px;
 }
 
 
@@ -67,7 +67,7 @@ span {
 }
 
 #img-kivi-1-3 {
-    margin-left: 100px;
+    margin-left: 130px;
     margin-right: 80px;
     align-items: center;
 }
